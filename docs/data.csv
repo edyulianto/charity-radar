@@ -1,0 +1,24 @@
+quadrant,ring,label,active,moved
+1,0,Tuhfatul Athfal,true,0
+1,0,Aqidatul Awwam,true,0
+1,3,Al Waraqat ,true,1
+1,0,Arbain Nawawi,true,0
+1,3,Umdat Ahkam,true,1
+1,3,Bulughul Maram,true,1
+1,1,Fathul Muin,true,0
+3,0,Yasin,true,0
+3,0,Al Mulk,true,0
+3,0,Dzikir Pagi,true,0
+3,0,Dzikir Petang,true,0
+3,0,Ratib Al Haddad,true,1
+3,0,Ratib Al Attos,true,0
+3,1,Dzikir Chistiyah,true,0
+3,1,Dzikir Al-Ikhlas (200x),true,0
+3,1,Shalat Hajat,true,0
+3,1,Shalat Witir,true,0
+3,0,Shalat Tahajud,true,0
+3,0,Shalat Istikharah,true,0
+3,2,Al-Fatihah (41x),true,0
+3,1,Tilawat Al-Qur'an,true,0
+3,2,As Shafat,true,0
+3,2,Hafalan,true,0
